@@ -1,1 +1,1 @@
-Barbershop
+Barbershop - тест ветки.
