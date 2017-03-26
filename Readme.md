@@ -1,1 +1,1 @@
-Barbershop - new branch
+Barbershop
